@@ -33,14 +33,14 @@ int main(){
 		Child2->Right=Child6;
 		Child3->Left=Child7;
 			
-			cout<<Parent->Data<<endl;
-			cout<<Parent->Left->Data<<endl;
-			cout<<Parent->Right->Data<<endl;
-			cout<<Child1->Left->Data<<endl;
-			cout<<Child1->Right->Data<<endl;
-			cout<<Child2->Left->Data<<endl;
-			cout<<Child2->Right->Data<<endl;
-			cout<<Child3->Left->Data<<endl;
+//			cout<<Parent->Data<<endl;
+//			cout<<Parent->Left->Data<<endl;
+//			cout<<Parent->Right->Data<<endl;
+//			cout<<Child1->Left->Data<<endl;
+//			cout<<Child1->Right->Data<<endl;
+//			cout<<Child2->Left->Data<<endl;
+//			cout<<Child2->Right->Data<<endl;
+//			cout<<Child3->Left->Data<<endl;
 			
 			Node* temp=Parent;
 			while(temp!=NULL){
